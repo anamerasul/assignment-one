@@ -1,0 +1,246 @@
+/* common style start */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    margin-bottom:120px;
+}
+
+h1{
+    font-size:60px;
+}
+
+p {
+    font-size:20px;
+}
+
+
+.flexible-container{
+    display:flex;
+}
+
+.half-width{
+    width:45%;
+    padding-left:10%;
+    
+
+
+}
+
+.link_btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 15px 25px;
+    margin:10px auto;
+    border-radius: 15px;
+    color: white;
+}
+
+/* common style end */
+
+
+
+
+/* .top-section css start */
+
+    
+
+
+
+.top-section{
+    width:90%;
+    
+}
+
+.line-one{
+   
+    border-left:7px solid rgb(55, 55, 170);
+}
+
+.mission{
+    color: orange;
+}
+
+.mypic-one img{
+    width:70%;
+}
+
+
+
+.goals_make{ 
+    margin-bottom: 40px;
+}
+
+.scroll-down{
+    margin: 5px 6px 3px;
+}
+
+.explore{
+    padding:9%;
+}
+
+/* .top-section css end */
+
+ /* My Mission  section css start */
+
+ .mission-mine{
+     text-align: center;
+
+ }
+
+ .twenty-twenty{
+    color: blue;
+ }
+
+
+.div-img img{
+    width: 80%;
+}
+
+.mission-mine-one{
+    
+    /* box-shadow: 10px 15px 25px rgb(62, 119, 48); */
+    width:50%;
+    padding: 4%;
+    margin: 5%;
+    background-color: rgba(0, 0, 255, 0.171);
+    border-radius: 7%;
+
+
+
+}
+
+.mission-mine-two{
+    
+    /* box-shadow: 10px 15px 25px rgb(62, 119, 48); */
+    width:50%;
+    padding: 4%;
+    margin: 5%;
+    background-color: rgba(255, 251, 0, 0.37);
+    border-radius: 7%;
+
+}
+
+.mission-mine-three{
+    
+    /* box-shadow: 10px 15px 25px rgb(62, 119, 48); */
+    width:50%;
+    padding: 4%;
+    margin: 5%;
+    background-color: rgba(255, 0, 13, 0.37);
+    border-radius: 7%;
+
+}
+/* 
+#Mission{
+    border-image: radial-gradient( 27deg,rgb(75, 84, 105), rgb(23, 245, 245)) 30;
+    border-image-slice: 1;
+    border-left: 7px solid;
+    border-radius: 5%;
+}
+
+#Vission{
+border-image:radial-gradient( 47deg,rgb(139, 46, 46), rgb(0, 33, 180)) 30;
+border-image-slice: 1;
+border-left: 7px solid;
+border-radius: 5%;
+
+}
+
+#Goals{
+
+border-image:radial-gradient( 47deg,rgb(24, 185, 110), rgb(0, 33, 180)) 30;
+border-image-slice: 1;
+border-left: 7px solid;
+border-radius: 5%;
+
+} */
+
+/* my mission css end */
+
+/* devloping section css start */
+
+.coding-pic img{
+    width:75%;
+}
+.devloping{
+    background-image: url(../images/shapes/shape-1.png);
+ background-repeat: no-repeat;
+ background-position:left;
+ background-size:25% 25%;  
+}
+.dev-org{
+    margin-bottom:30px;
+}
+
+/* developing section css end */
+
+/* Global Community section css start */
+
+.Global-Community{
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right bottom;
+    background-size:25% 25%;  
+}
+.Community-pic img{
+    width:75%;
+}
+
+/* Global Community section css end */
+
+ /* contract me  section  css start  */
+.contract-me{
+    background-image: linear-gradient(rgba(255, 51, 5, 0.096),rgba(5, 134, 255, 0.507));
+
+}
+
+
+address{
+    font-size:18px;
+}
+
+address a{
+    text-decoration:none;
+}
+
+/* .contract-section{
+    background-image: linear-gradient(orange,red);
+    height:auto;
+} */
+
+
+
+/* contract me  section css end */
+
+/* footer-part css start */
+
+.footer-part{
+    background-color:black;
+    text-align:center;
+    padding:50px 80px;
+}
+.footer-part h2{
+    color:white;
+    font-style: italic;
+    font-size:35px;
+    
+}
+
+.footer-part span{
+    color:red;
+    font-style: italic;
+    padding-left:25px;
+}
+
+.footer-part p{
+    color:white;
+    font-style: italic;
+    
+    
+}
+/* footer-part css end */
